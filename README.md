@@ -5,11 +5,13 @@ PRL library is an open-source library for deep learning researchers, especially 
 
 This library currently supports the following methods:
 
-- PIM
-- TPR
-- LightPath
-- AutoPRL
-- GVCPath
+- **PIM** 【IJCAI 2021】(https://ijcai-21.org/index.html)
+- **TPR** [ICDE 2022](https://icde2022.ieeecomputer.my/)
+- **LightPath** [KDD 2023](https://kdd.org/kdd2023/index.html)
+- **MM-Path** [KDD 2025](https://kdd2025.kdd.org/)
+- **Path-LLM**[WWW 2025](https://www2025.thewebconf.org/)
+- **AutoPRL**
+- **GVCPath**
 
 # Dataset 
 
@@ -65,3 +67,23 @@ if you find this repo useful, please cite our papers.
 	year         = {2023}
 }
 } </code> </pre>
+
+<pre> <code>
+@inproceedings{MM-Path,
+	author       = {Ronghui Xu and Hanyin Cheng and Chenjuan Guo and Hongfan Gao and Jilin Hu and Sean Bin Yang and Bin Yang},
+	title        = {MM-Path: Multi-modal, Multi-granularity Path Representation Learning},
+	booktitle    = { {KDD} },
+	year         = {2025}
+}
+} </code> </pre>
+
+<pre> <code>
+@inproceedings{Path-LLM,
+	author       = {Yongfu Wei and Yan Lin and Hongfan Gao and Ronghui Xu and Sean Bin Yang and Jilin Hu},
+	title        = {Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models},
+	booktitle    = { {WWW} },
+	year         = {2025}
+}
+} </code> </pre>
+
+

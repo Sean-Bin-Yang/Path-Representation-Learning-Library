@@ -9,7 +9,7 @@ This library currently supports the following methods:
 - **TPR** [ICDE 2022](https://icde2022.ieeecomputer.my/)
 - **LightPath** [KDD 2023](https://kdd.org/kdd2023/index.html)
 - **MM-Path** [KDD 2025](https://kdd2025.kdd.org/)
-- **Path-LLM**[WWW 2025](https://www2025.thewebconf.org/)
+- **Path-LLM** [WWW 2025](https://www2025.thewebconf.org/)
 - **AutoPRL**
 - **GVCPath**
 

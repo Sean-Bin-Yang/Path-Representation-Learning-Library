@@ -67,19 +67,33 @@ if you find this repo useful, please cite our papers.
 } </code> </pre>
 
 <pre> <code>
-@inproceedings{MM-Path,
-	author       = {Ronghui Xu and Hanyin Cheng and Chenjuan Guo and Hongfan Gao and Jilin Hu and Sean Bin Yang and Bin Yang},
-	title        = {MM-Path: Multi-modal, Multi-granularity Path Representation Learning},
-	booktitle    = { {KDD} },
-	year         = {2025}
+@inproceedings{DBLP:conf/kdd/0001CGGHY025,
+  author       = {Ronghui Xu and
+                  Hanyin Cheng and
+                  Chenjuan Guo and
+                  Hongfan Gao and
+                  Jilin Hu and
+                  Sean Bin Yang and
+                  Bin Yang},
+  title        = {MM-Path: Multi-modal, Multi-granularity Path Representation Learning},
+  booktitle    = {{KDD} },
+  pages        = {1703--1714},
+  year         = {2025},
 } </code> </pre>
 
 <pre> <code>
-@inproceedings{Path-LLM,
-	author       = {Yongfu Wei and Yan Lin and Hongfan Gao and Ronghui Xu and Sean Bin Yang and Jilin Hu},
-	title        = {Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models},
-	booktitle    = { {WWW} },
-	year         = {2025}
+@inproceedings{DBLP:conf/www/Wei0G0YH25,
+  author       = {Yongfu Wei and
+                  Yan Lin and
+                  Hongfan Gao and
+                  Ronghui Xu and
+                  Sean Bin Yang and
+                  Jilin Hu},
+  title        = {Path-LLM: {A} Multi-Modal Path Representation Learning by Aligning
+                  and Fusing with Large Language Models},
+  booktitle    = { {WWW} },
+  pages        = {2289--2298},
+  year         = {2025},
 } </code> </pre>
 
 

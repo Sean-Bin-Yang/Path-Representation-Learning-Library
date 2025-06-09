@@ -19,6 +19,7 @@ This library currently supports the following methods:
 
 - Harbin dataset is online availaabel at [Google Drive](https://drive.google.com/file/d/1TqupyC0LVqUtGfoPuXmIjm2VUke1lx0b/view?usp=drive_link). Thanks for authors of DeepGTT
 
+To get path trajecotry, you can refer to map matching method [FMM](https://github.com/cyang-kth/fmm) or [barefoot](https://github.com/boathit/barefoot).
 
 # Citation
 

@@ -5,7 +5,7 @@ PRL library is an open-source library for deep learning researchers, especially 
 
 This library currently supports the following methods:
 
-| Method | Venues | Modality |
+|Method | Venues | Modality |
 |--------|--------|--------|
 | **PIM**  | [IJCAI 2021](https://ijcai-21.org/index.html)  | Path  |
 | **TPR**   |[ICDE 2022](https://icde2022.ieeecomputer.my/) | Path |

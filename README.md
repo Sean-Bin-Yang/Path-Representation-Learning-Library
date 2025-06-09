@@ -20,7 +20,7 @@ This library currently supports the following methods:
 
 # Citation
 
-if you find this repo useful, please cite our paper.
+if you find this repo useful, please cite our papers.
 
 <pre> <code>
 @inproceedings{DBLP:conf/ijcai/YangGHT021,

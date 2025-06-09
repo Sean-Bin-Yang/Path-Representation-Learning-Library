@@ -22,7 +22,7 @@ This library currently supports the following methods:
 
 if you find this repo useful, please cite our paper.
 
-<pre> <code>```bibtex 
+<pre> <code>
 @inproceedings{DBLP:conf/ijcai/YangGHT021,
 	author       = {Sean Bin Yang and
 	Chenjuan Guo and
@@ -34,9 +34,9 @@ if you find this repo useful, please cite our paper.
 	booktitle    = { {IJCAI} },
 	pages        = {3286--3292},
 	year         = {2021}
-} ```</code> </pre>
+} </code> </pre>
 
-<pre> <code>```bibtex 
+<pre> <code>
 @inproceedings{DBLP:conf/icde/YangGHYTJ22,
 	author       = {Sean Bin Yang and
 	Chenjuan Guo and
@@ -50,9 +50,9 @@ if you find this repo useful, please cite our paper.
 	pages        = {2873--2885},
 	year         = {2022}
 }
-} ```</code> </pre>
+} </code> </pre>
 
-<pre> <code>```bibtex 
+<pre> <code>
 @inproceedings{DBLP:conf/kdd/YangHGYJ23,
 	author       = {Sean Bin Yang and
 	Jilin Hu and
@@ -64,4 +64,4 @@ if you find this repo useful, please cite our paper.
 	pages        = {2999--3010},
 	year         = {2023}
 }
-} ```</code> </pre>
+} </code> </pre>

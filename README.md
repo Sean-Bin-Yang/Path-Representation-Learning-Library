@@ -51,7 +51,6 @@ if you find this repo useful, please cite our papers.
 	booktitle    = {{ICDE} },
 	pages        = {2873--2885},
 	year         = {2022}
-}
 } </code> </pre>
 
 <pre> <code>
@@ -65,7 +64,6 @@ if you find this repo useful, please cite our papers.
 	booktitle    = {{KDD} },
 	pages        = {2999--3010},
 	year         = {2023}
-}
 } </code> </pre>
 
 <pre> <code>
@@ -74,7 +72,6 @@ if you find this repo useful, please cite our papers.
 	title        = {MM-Path: Multi-modal, Multi-granularity Path Representation Learning},
 	booktitle    = { {KDD} },
 	year         = {2025}
-}
 } </code> </pre>
 
 <pre> <code>
@@ -83,7 +80,6 @@ if you find this repo useful, please cite our papers.
 	title        = {Path-LLM: A Multi-Modal Path Representation Learning by Aligning and Fusing with Large Language Models},
 	booktitle    = { {WWW} },
 	year         = {2025}
-}
 } </code> </pre>
 
 

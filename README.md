@@ -19,7 +19,7 @@ This library currently supports the following methods:
 
 # Dataset 
 
-- Chengdu dataset is online available at [Google Drive](https://drive.google.com/file/d/1xc1TKmEQ0VQ7daA6KVPri9J9OmsYLai_/view?usp=drive_link).Thanks for DiDi.
+- Chengdu dataset is online available at [Google Drive](https://drive.google.com/file/d/1xc1TKmEQ0VQ7daA6KVPri9J9OmsYLai_/view?usp=drive_link).
 
 - Harbin dataset is online availaabel at [Google Drive](https://drive.google.com/file/d/1TqupyC0LVqUtGfoPuXmIjm2VUke1lx0b/view?usp=drive_link). Thanks for authors of DeepGTT
 

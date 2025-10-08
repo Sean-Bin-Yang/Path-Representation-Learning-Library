@@ -5,7 +5,7 @@ The pytorch implementation of accepted paper "DGCPath: Distribution-Aware Genera
 
 ## Framework
 <div align=center>
-<img src="framework.png"/>
+<img src="Framework.png"/>
 </div>
 
 ## Environment Requirements

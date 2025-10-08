@@ -45,7 +45,7 @@ DGCPath is based on Python version 3.10 and PyTorch version < 1.9.0. Please make
 
 ## DATA
 
-We conduct our experiments on three trajectory datasets and their corresponding road networks: Aalborg, Chengdu, and Harbin. To ensure reproducibility, the Harbin dataset is included in the supplementary materials. Path trajectories can be obtained using the map-matching method FMM.[FMM](https://github.com/cyang-kth/fmm). 
+We conduct our experiments on three trajectory datasets and their corresponding road networks: Aalborg, Chengdu, and Harbin. To ensure reproducibility, the [Harbin dataset](https://drive.google.com/file/d/1TqupyC0LVqUtGfoPuXmIjm2VUke1lx0b/view) is provided here. Path trajectories can be obtained using the map-matching method FMM.[FMM](https://github.com/cyang-kth/fmm). 
 
 
 ## Pre-Train

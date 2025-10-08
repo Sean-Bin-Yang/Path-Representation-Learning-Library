@@ -1,6 +1,6 @@
 # AutoPRL: Automated Path Representation Learning via Learnable View Generator
 
-The pytorch implementation of accepted paper "RED: Effective Trajectory Representation Learning with Comprehensive Information"
+The pytorch implementation of accepted paper "AutoPRL: Automated Path Representation Learning via Learnable View Generator"
 
 ## Framework
 <div align=center>

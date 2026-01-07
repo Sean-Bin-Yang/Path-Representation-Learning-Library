@@ -1,6 +1,6 @@
 # AutoPRL: Automated Path Representation Learning via Learnable View Generator
 
-The pytorch implementation of accepted paper "AutoPRL: Automated Path Representation Learning via Learnable View Generator"
+The pytorch implementation of paper "AutoPRL: Automated Path Representation Learning via Learnable View Generator"
 
 ## Framework
 <div align=center>
